@@ -31,7 +31,6 @@ Here are some brief notes on how a network works:
 ![ mitm modal](image/MITM.png)
 
 # 🛈 More Info about all these points.
-dhcp
 <details>
 <summary>Know more about DHCP..</summary>
  
@@ -65,7 +64,6 @@ Here's how NAT works:
 
 NAT can provide an additional layer of security to a network by hiding the private IP addresses of devices behind a single public IP address. However, it can also cause issues with certain network protocols that rely on unique IP addresses for each device, such as some online gaming and peer-to-peer applications.
 </details>
-firewall
 <details>
 <summary>Know more about Firewall Implementation Trusted Network...
 </summary>
@@ -98,7 +96,7 @@ MitM attacks can be particularly dangerous because the attacker can intercept se
 
 
 
-⚡️ This project was created by ** Rohit Chaudhary, Naman, Vishnu Kumar **.
+⚡️ This project was created by **Rohit Chaudhary, Naman, Vishnu Kumar**.
 
 # Contact
 If you have any questions or feedback about this project, please contac at rohitcoc245@gmail.com.
