@@ -30,7 +30,7 @@ Here are some brief notes on how a network works:
 # 👉🏻 Man in The Middle Attack 
 ![ mitm modal](image/MITM.png)
 
-## More Info about all these points.
+# 🛈 More Info about all these points.
 dhcp
 <details>
 <summary>Know more about DHCP..</summary>
@@ -97,8 +97,8 @@ MitM attacks can be particularly dangerous because the attacker can intercept se
 </details>
 
 
-⚡️ This project was created by Rohit Chaudhary , Naman , Vishnu Kumar.
+
+⚡️ This project was created by ** Rohit Chaudhary, Naman, Vishnu Kumar **.
 
 # Contact
-
-If you have any questions or feedback about this project, please contac at [rohitcoc245@gmail.com].
+If you have any questions or feedback about this project, please contac at rohitcoc245@gmail.com.
