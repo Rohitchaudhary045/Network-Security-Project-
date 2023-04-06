@@ -22,7 +22,7 @@ Here are some brief notes on how a network works:
 ![DHCP modal](image/dhcp.png)
 
 # 👉🏻 Network Address Translation
-![N/W add tran modal](image/Network Address Translation.png)
+![N/W add tran modal](image/Network-Address-Translation.png)
 
 # 👉🏻 Firewall Implementation Trusted Network
 ![trested network modal ](image/fwtn.png)
