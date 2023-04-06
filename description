@@ -1,0 +1,7 @@
+Our project involves implementing various network security measures using Cisco Packet Tracer. We started by configuring a firewall to prevent unauthorized access and to filter out any malicious traffic entering our network. We set up rules to allow or block traffic based on predefined criteria and set up alerts to notify us of any suspicious activity.
+
+Next, we conducted a man-in-the-middle attack simulation to test the effectiveness of our firewall. This involved intercepting network traffic between two parties and modifying it to steal sensitive information. We used the results of the simulation to identify any vulnerabilities in our network security and to make adjustments to our firewall settings.
+
+We also implemented DHCP snooping, a security feature that helps prevent rogue DHCP servers from distributing incorrect IP addresses to devices on our network. We configured DHCP snooping to only allow trusted DHCP servers to distribute IP addresses and set up alerts to notify us of any unauthorized DHCP server activity.
+
+Finally, we implemented Network Address Translation (NAT), which is a technique used to map one IP address to another IP address. We used NAT to hide internal IP addresses from external networks and to conserve public IP addresses. By implementing these security measures, we improved the security and efficiency of our network.
