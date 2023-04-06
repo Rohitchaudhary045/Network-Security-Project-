@@ -1,10 +1,10 @@
-# Network Security (Vulnerabilities, Threats and Countermeasures)
+#👨🏻‍💻 Network Security (Vulnerabilities, Threats and Countermeasures)
 
 This project aims to provide an overview of network security, including common vulnerabilities and threats, as well as countermeasures that can be taken to secure a network.
 Installation
 
 To use this project, you will need to install Cisco Packet Tracer. You can download the software from the official Cisco website, and installation instructions are provided in the software package.
-# Usage
+#📈 Usage
 
 This project is intended to serve as an educational resource for those interested in learning about network security. The project covers topics such as common network vulnerabilities (e.g. denial-of-service attacks, malware, and social engineering), common network threats (e.g. unauthorized access, data theft, and phishing), and countermeasures that can be taken to secure a network (e.g. firewalls, intrusion detection systems, and access controls).
 
