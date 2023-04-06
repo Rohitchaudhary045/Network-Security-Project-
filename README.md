@@ -10,7 +10,7 @@ This project is intended to serve as an educational resource for those intereste
 
 Here are some brief notes on how a network works:
 
-    A network is a collection of devices that are connected to each other through a communication medium, such as cables or wireless signals.
+   A network is a collection of devices that are connected to each other through a communication medium, such as cables or wireless signals.
     Devices on a network can communicate with each other by sending packets of data over the network.
     Each device on a network has a unique identifier, known as an IP address, which is used to route data to the correct destination.
     Networks can be classified based on their size and scope, such as local area networks (LANs), wide area networks (WANs), and the internet.
@@ -18,9 +18,21 @@ Here are some brief notes on how a network works:
 # ⭐️ Complete Project look like
 ![Modal](image/llover.png)
 
+# 👉🏻 DHCP
+![DHCP modal](image/dhcp.png)
+
+# 👉🏻 Network Address Translation
+![N/W add tran modal](image/Network Address Translation.png)
+
+# 👉🏻 Firewall Implementation Trusted Network
+![trested network modal ](image/fwtn.png)
+
+# 👉🏻 Man in The Middle Attack 
+![ mitm modal](image/MITM.png)
+
 
 ⚡️ This project was created by Rohit Chaudhary , Naman , Vishnu Kumar.
 
 # Contact
 
-If you have any questions or feedback about this project, please contact [Your Name] at [rohitcoc245@gmail.com].
+If you have any questions or feedback about this project, please contac at [rohitcoc245@gmail.com].
