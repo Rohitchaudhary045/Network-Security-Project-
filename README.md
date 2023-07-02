@@ -15,7 +15,7 @@ This project is intended to serve as an educational resource for those intereste
    Networks can be classified based on their size and scope, such as local area networks (LANs), wide area networks (WANs), and the internet.
    Networks can be secured using a variety of techniques, including firewalls, encryption, access controls, and network monitoring tools.
 # ⭐️ Complete Project look like
-![Modal](image/llover.png)
+![model](image/llover.png)
 
 # 👉🏻 DHCP
 ![DHCP modal](image/dhcp.png)
