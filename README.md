@@ -98,4 +98,4 @@ MitM attacks can be particularly dangerous because the attacker can intercept se
 ⚡️ This project was created by **Rohit Chaudhary, Naman, Vishnu Kumar**.
 
 # Contact
-If you have any questions or feedback about this project, please contac at rohitcoc245@gmail.com.
+If you have any questions or feedback about this project, please contact at Namansharma2718@gmail.com | rohitcoc245@gmail.com.
